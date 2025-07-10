@@ -11,8 +11,9 @@ The primary goal of this project is to analyze Maven Roastery's sales data to:
 
 # 📊 Dataset
 The analysis is based on the following files:
-- `data/maven_roastery_cleaned.csv`: This CSV file contains the raw transactional data, including details such as transaction ID, date, time, store location, product category, product type, product name, item price, transaction quantity, and day of the week.
-- `visualizations/Maven_Roastery_Beginner_Viz.pdf`: A PDF document containing a series of visualizations and initial insights derived from the data.
+- `maven_roastery_dataset.csv`: This CSV file contains the raw transactional data, including details such as transaction ID, date, time, store location, product category, product type, product name, item price, transaction quantity, and day of the week.
+- `Maven_Roastery_Beginner_Viz.pdf`: A PDF document containing a series of visualizations and initial insights derived from the data.
+- https://public.tableau.com/views/Maven_Roastery_Beginner_Viz/MainSalesAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link for full access to dashboard of tableau public
 
 # 📈 Analysis Performed
 The analysis covers several key areas:
